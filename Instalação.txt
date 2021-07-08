@@ -1,0 +1,7 @@
+Como Instalar o Jogo:
+
+- O jogo não funcionou correntamente em um Runnable Java File então eu peguei a pasta inteira do projeto e coloquei zipado para poder usar.
+
+- Para poder jogar é simples basta criar um Java Project no próprio Eclipse então é só colar tudo que tem dentro do arquivo .rar para a seu projeto recém criado.
+
+- Se não conseguir rodar o jogo, clique com o botão direito no projeto coloque o mouse em cima de "Run As" então você clica em "Java Aplication" e pronto deve entrar direto.
